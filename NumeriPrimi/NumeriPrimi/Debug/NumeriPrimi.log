@@ -1,0 +1,3 @@
+﻿  NumeriPrimi.cpp
+C:\Users\Marco Maspes\Documents\Scuola\ProgrammiC\NumeriPrimi\NumeriPrimi\NumeriPrimi.cpp(47,9): warning C4477: 'printf': con la stringa di formato '%p' è necessario un argomento di tipo 'void *', ma il tipo dell'argomento variadic 2 è 'double'
+  NumeriPrimi.vcxproj -> C:\Users\Marco Maspes\Documents\Scuola\ProgrammiC\NumeriPrimi\Debug\NumeriPrimi.exe
