@@ -1,0 +1,3 @@
+﻿  GuessANumber.cpp
+C:\Users\Marco Maspes\Documents\Scuola\ProgrammiC\GuessANumber\GuessANumber\GuessANumber.cpp(7,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  GuessANumber.vcxproj -> C:\Users\Marco Maspes\Documents\Scuola\ProgrammiC\GuessANumber\Debug\GuessANumber.exe
